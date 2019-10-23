@@ -1,4 +1,4 @@
-package threadcoreknowledge;
+package threadcoreknowledge.createthreads;
 
 /**
  * 使用Runnable方法实现线程
